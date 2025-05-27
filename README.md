@@ -16,7 +16,7 @@ Here are some of my repositories:
 - **webSocketCarrito**
 - **reservationSystem**
 - **apiCarrito**
-  #### **Actually Work, fullStack Jewelery E-comerce**
+  #### **Actually Working in a fullStack Jewelery E-comerce personal project**
 - **jewelryApp** 
 
 ---
