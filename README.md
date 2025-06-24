@@ -1,10 +1,11 @@
 ---
-## 👋 Hi there, I'm @luisdev265!
+# 👋 Hi there, I'm @luisdev265! A javascript - typescript software developer.
+## I'm Open to work offers 💼 
 
 ---
 ### **About Me**
 - 👀 I'm passionate about **software development**, building innovative solutions, and continuously expanding my knowledge in areas that spark my curiosity.
-- 🌱 I'm currently deepening my understanding of **Typescript, react, express, sql, mongoDB, astro and proximately VUE, AWS and mybe some PHP Framework**.
+- 🌱 I'm currently deepening my understanding of **Typescript, react, express, mysql, mongoDB, astro and proximately VUE, AWS and mybe some PHP Framework**.
 - 💞️ I'm eager to collaborate on **A web called SoDigital.mx actually im an intern, i have made websockets, mini app´s with modern frameworks and escolar projects**.
 - 📫 You can reach me via **https://www.linkedin.com/in/luis-mario-gutierrez-valdovinos-6998a6357/**.
 - 😄 Pronouns: **He/Him**
@@ -17,7 +18,7 @@ Here are some of my repositories:
 - **reservationSystem**
 - **apiCarrito**
   #### **Actually Working in a fullStack Jewelery E-comerce personal project**
-- **jewelryApp** 
+- **TodoApp** 
 
 ---
-Looking forward to connecting and building something amazing together!
+Looking forward to connecting and building something amazing together!!!
