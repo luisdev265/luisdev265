@@ -23,7 +23,7 @@ Here are some of my repositories:
 
 ### **Second GitHub**
 - **https://github.com/marioVDev**
-  Working on a micro service with typescript     nestjs for doing an opensource api for         managing sessions ( Local, Oauth google,       Oauth Github ) with nest practices, api        security, Design patterns, layer               infrastructure, and a lot more.
+  Working on a micro service with typescript     nestjs for doing an opensource api for         managing sessions ( Local, Oauth google,       Oauth Github ) with best practices, api        security, Design patterns, layer               infrastructure, and a lot more.
 - **Take a look!!!**
 
 ---
